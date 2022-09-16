@@ -9,7 +9,7 @@ function Header() {
                 <h1>MRSitech</h1>
                 <p>
                     Desenvolvido por
-                    <a href="https://www.mrsitech.com.br">@mrsitech</a>
+                    <a href="https://www.mrsitech.com.br">mrsitech@outlook.com</a>
                 </p>
             </div>
         </header>
