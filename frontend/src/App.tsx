@@ -6,8 +6,8 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() {
   return (
     <>
-    <ToastContainer />/* ativa POPup de sucesso do NotificationButton*/
-      <Header />
+    <ToastContainer />{/*ativa POPup de sucesso do NotificationButton*/} 
+      <Header /> 
       <main>
         <section id="sales">
           <div className="dsmeta-container">
